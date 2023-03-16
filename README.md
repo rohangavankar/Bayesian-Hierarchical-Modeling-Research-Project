@@ -9,3 +9,6 @@ simplicity when building a hierarchical model and its feasibility to sample from
 distributions. This study will explore how well the hierarchical model can help predict
 student course grades using a training and testing set. There will be a prediction for each
 course that will be used when calculating the mean squared error.
+
+
+The rest of my research paper is at this link: https://drive.google.com/drive/folders/1GTIGzDlr3UJQThrdhwaRWMqX0ANZCnQ-
