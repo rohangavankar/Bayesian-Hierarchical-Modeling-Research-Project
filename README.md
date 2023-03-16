@@ -1,4 +1,4 @@
-# Bayesian
+# Predictions for Students’ Grades Using a Bayesian Hierarchical Model
 I build a Bayesian hierarchical model that is fitted to students’ course data from
 Maastricht College, a Liberal Arts college. This model is compared to an independent
 model fitted to each course and a pooled model using the mean squared error from a test
