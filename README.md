@@ -11,4 +11,4 @@ student course grades using a training and testing set. There will be a predicti
 course that will be used when calculating the mean squared error.
 
 
-The rest of my research paper is at this link: https://drive.google.com/drive/folders/1GTIGzDlr3UJQThrdhwaRWMqX0ANZCnQ-
+The rest of my research paper is at this link: https://drive.google.com/file/d/1bhQ4iKdVtmqiIy4WDBiitXEWDOcJsEfA/view?usp=sharing
